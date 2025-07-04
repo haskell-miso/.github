@@ -8,5 +8,5 @@ This organization houses community projects and tools aimed at demonstrating var
 | [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |[miso-from-css](https://github.com/haskell-miso/miso-from-css)|[Video](https://github.com/haskell-miso/miso-audio)||[miso-sampler](https://github.com/haskell-miso/miso-sampler)|[bulma.io](https://github.com/haskell-miso/miso-bulma)
 | [Presentation](https://github.com/haskell-miso/miso-presentation) | [Tetris](https://github.com/haskell-miso/miso-flatris) ||[Camera](https://github.com/haskell-miso/miso-camera)||[isomorphic](https://github.com/FPtje/miso-isomorphic-example)
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[Canvas 2D](https://github.com/dmjio/miso/blob/master/examples/canvas2d/Main.hs)||
-|[Flappy Bird](https://github.com/haskell-miso/miso-plane)||||||
+||[Flappy Bird](https://github.com/haskell-miso/miso-plane)|||||
 
