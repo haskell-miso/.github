@@ -14,7 +14,7 @@ This organization houses community projects and tools aimed at demonstrating var
 | 📚 Learnings | 🎮 Games | ⚙️ Utils | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
 | ----------- | ------- | -------- | ------- | ------- | ------ | ------ |
 | Haskell Miso book| [2048](https://github.com/haskell-miso/miso-2048) |[miso-from-html](https://github.com/haskell-miso/miso-from-html)|[Audio](https://github.com/haskell-miso/miso-audio)|[miso-lynx](https://github.com/haskell-miso/miso-lynx)|miso-startup|[three.js](https://github.com/three-hs/three-miso-example)
-| [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |miso-from-css|[Video](https://github.com/haskell-miso/miso-audio)||[miso-sampler](https://github.com/haskell-miso/miso-sampler)|bulma.io
+| [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |miso-from-css|[Video](https://github.com/haskell-miso/miso-video)||[miso-sampler](https://github.com/haskell-miso/miso-sampler)|bulma.io
 | [Presentation](https://github.com/haskell-miso/miso-presentation) | [Tetris](https://github.com/haskell-miso/miso-flatris) |[jsaddle-run](https://github.com/haskell-miso/jsaddle-run)|Camera||[miso-isomorphic](https://github.com/FPtje/miso-isomorphic-example)
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[Canvas 2D](https://github.com/dmjio/miso/blob/master/examples/canvas2d/Main.hs)||
 ||[Flappy Bird](https://github.com/haskell-miso/miso-plane)|||||
