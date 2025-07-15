@@ -1,6 +1,10 @@
-## :ramen: Welcome to the Haskell [miso](https://github.com/dmjio/miso) community.
+## Welcome to the Haskell [miso](https://github.com/dmjio/miso) community.
 
 This organization houses community projects and tools aimed at demonstrating various features and design patterns when building [miso](https://haskell-miso.org) applications.
+
+## 🍜 `miso`
+
+-  [miso](https://github.com/dmjio/miso)
 
 ## 🫶 Community 
 
