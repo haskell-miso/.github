@@ -6,6 +6,10 @@ This organization houses community projects and tools aimed at demonstrating var
 
 -  [miso](https://github.com/dmjio/miso)
 
+## ⚡ Quick start
+
+-  [miso-sampler](https://github.com/dmjio/miso-sampler)
+
 ## 🫶 Community 
 
 - [Matrix](https://matrix.to/#/#haskell-miso:matrix.org) 
