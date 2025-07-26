@@ -26,4 +26,5 @@ This organization houses community projects and tools aimed at demonstrating var
 | [Presentation](https://github.com/haskell-miso/miso-presentation) | [Tetris](https://github.com/haskell-miso/miso-flatris) |[jsaddle-run](https://github.com/haskell-miso/jsaddle-run)|[Router](https://github.com/haskell-miso/miso-router)|Camera||[miso-isomorphic](https://github.com/FPtje/miso-isomorphic-example)
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[SVG](https://github.com/haskell-miso/miso-svg)|[Canvas 2D](https://github.com/haskell-miso/miso-canvas2d)||
 ||[Flappy Bird](https://github.com/haskell-miso/miso-plane)||[Components](https://github.com/haskell-miso/miso-components)|[WebSocket](https://github.com/haskell-miso/miso-websocket)||
+||[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
 
