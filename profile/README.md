@@ -27,5 +27,5 @@ This organization houses community projects and tools aimed at demonstrating var
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[SVG](https://github.com/haskell-miso/miso-svg)|[Canvas 2D](https://github.com/haskell-miso/miso-canvas2d)||
 ||[Flappy Bird](https://github.com/haskell-miso/miso-plane)||[Components](https://github.com/haskell-miso/miso-components)|[WebSocket](https://github.com/haskell-miso/miso-websocket)||
 ||[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
-|a|[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|c|[PubSub](https://github.com/haskell-miso/miso-pubsub)|[SSE](https://github.com/haskell-miso/miso-sse)|f|g|
+||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[PubSub](https://github.com/haskell-miso/miso-pubsub)|[SSE](https://github.com/haskell-miso/miso-sse)|||
 
