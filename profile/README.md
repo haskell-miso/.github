@@ -25,7 +25,7 @@ This organization houses community projects and tools aimed at demonstrating var
 | [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |miso-from-css|[File Reader](https://github.com/haskell-miso/miso-filereader)|[Video](https://github.com/haskell-miso/miso-video)||[miso-sampler](https://github.com/haskell-miso/miso-sampler)|bulma.io
 | [Presentation](https://github.com/haskell-miso/miso-presentation) | [Tetris](https://github.com/haskell-miso/miso-flatris) |[jsaddle-run](https://github.com/haskell-miso/jsaddle-run)|[Router](https://github.com/haskell-miso/miso-router)|Camera||[miso-isomorphic](https://github.com/FPtje/miso-isomorphic-example)
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[SVG](https://github.com/haskell-miso/miso-svg)|[Canvas 2D](https://github.com/haskell-miso/miso-canvas2d)||
-||[Flappy Bird](https://github.com/haskell-miso/miso-plane)||[Components](https://github.com/haskell-miso/miso-components)|[WebSocket](https://github.com/haskell-miso/miso-websocket)||
+||[Flappy Bird](https://github.com/haskell-miso/miso-plane)||[PubSub](https://github.com/haskell-miso/miso-pubsub)|[WebSocket](https://github.com/haskell-miso/miso-websocket)||
 ||[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
-||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[PubSub](https://github.com/haskell-miso/miso-pubsub)|[SSE](https://github.com/haskell-miso/miso-sse)|||
+||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|||[SSE](https://github.com/haskell-miso/miso-sse)|||
 
