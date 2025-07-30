@@ -1,4 +1,4 @@
-## Welcome to the Haskell [miso](https://github.com/dmjio/miso) community.
+## Welcome to the Haskell [miso](https://github.com/dmjio/miso) project.
 
 This organization houses community projects and tools aimed at demonstrating various features and design patterns when building [miso](https://haskell-miso.org) applications.
 
