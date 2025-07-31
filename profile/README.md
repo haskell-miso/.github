@@ -26,6 +26,6 @@ This organization houses community projects and tools aimed at demonstrating var
 | [Presentation](https://github.com/haskell-miso/miso-presentation) | [Tetris](https://github.com/haskell-miso/miso-flatris) |[jsaddle-run](https://github.com/haskell-miso/jsaddle-run)|[Router](https://github.com/haskell-miso/miso-router)|Camera||[miso-isomorphic](https://github.com/FPtje/miso-isomorphic-example)
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[SVG](https://github.com/haskell-miso/miso-svg)|[Canvas 2D](https://github.com/haskell-miso/miso-canvas2d)||
 |[Awesome miso](https://github.com/haskell-miso/awesome-miso)|[Flappy Bird](https://github.com/haskell-miso/miso-plane)||[PubSub](https://github.com/haskell-miso/miso-pubsub)|[WebSocket](https://github.com/haskell-miso/miso-websocket)||
-||[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
+|[Coverage](https://coverage.haskell-miso.org)|[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
 ||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|||[SSE](https://github.com/haskell-miso/miso-sse)|||
 |||||[Fetch](https://github.com/haskell-miso/miso-fetch)|||
