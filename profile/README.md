@@ -1,6 +1,6 @@
 ## Welcome to the Haskell [miso](https://github.com/dmjio/miso) project.
 
-This organization houses community projects and tools aimed at demonstrating various features and design patterns when building [miso](https://haskell-miso.org) applications. The goal of the Haskell `miso` organization is to provide a valid [React](https://react.dev) / [React Native](https://reactnative.dev/) alternative for the Haskell ecosystem. We do this by using industry standard techniques such as Virtual DOM, Components, Renderers, and now [LynxJS.org](https://lynxjs.org) to target `iOS` and `Android` devices.
+The goal of the Haskell `miso` organization is to provide a valid [React](https://react.dev) / [React Native](https://reactnative.dev/) alternative for the Haskell ecosystem. We do this by using industry standard techniques such as Virtual DOM, Components, Renderers, and now [LynxJS.org](https://lynxjs.org) to target `iOS` and `Android` devices. This organization houses community projects and tools aimed at demonstrating various features and design patterns when building [miso](https://haskell-miso.org) applications. 
 
 ## 🍜 `miso`
 
