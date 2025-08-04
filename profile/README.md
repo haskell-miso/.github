@@ -1,6 +1,6 @@
-## Welcome to the Haskell [miso](https://github.com/dmjio/miso) organization.
+## 👋 Welcome to the Haskell [miso](https://github.com/dmjio/miso) organization.
 
-The goal of the Haskell `miso` organization is to provide a first-class frontend experience (equivalent to [React](https://react.dev) / [React Native](https://reactnative.dev/) 
+The goal of this organization is to provide a first-class frontend experience (equivalent to [React](https://react.dev) / [React Native](https://reactnative.dev/) 
 ) for the Haskell ecosystem while simultaneously promoting functional programming to the broader JavaScript community and academia. We do this by combining a "simple Haskell" philosophy with industry standard techniques such as Virtual DOM, Web Components, Custom Renderers, etc. We use third-party integrations, like [LynxJS.org](https://github.com/haskell-miso/miso-lynx) to target `iOS` and `Android` devices, and support the [latest web standards](https://webassembly.org/) like [Web Assembly](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html).
 
 This organization houses community projects and resources aimed at demonstrating various features and design patterns when building [miso](https://haskell-miso.org) applications. 
