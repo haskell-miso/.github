@@ -30,6 +30,6 @@ This organization houses community projects and resources aimed at demonstrating
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)||[SVG](https://github.com/haskell-miso/miso-svg)|[Canvas 2D](https://github.com/haskell-miso/miso-canvas2d)||[haskell-miso.org](https://github.com/haskell-miso/haskell-miso.org)|[AFrame.io](https://github.com/haskell-miso/miso-aframe)
 |[Awesome miso](https://github.com/haskell-miso/awesome-miso)|[Flappy Bird](https://github.com/haskell-miso/miso-plane)||[PubSub](https://github.com/haskell-miso/miso-pubsub)|[WebSocket](https://github.com/haskell-miso/miso-websocket)||
 |[Coverage](https://coverage.haskell-miso.org)|[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
-||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|||[SSE](https://github.com/haskell-miso/miso-sse)|||
+||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[FRP](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||
 ||[Card Game](https://github.com/smelc/miso-darkcraw)|||[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||||||
