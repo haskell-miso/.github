@@ -32,4 +32,4 @@ This organization houses community projects and resources aimed at demonstrating
 |[Coverage](https://coverage.haskell-miso.org)|[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||
 ||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[FRP](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||
 ||[Card Game](https://github.com/smelc/miso-darkcraw)|||[Fetch](https://github.com/haskell-miso/miso-fetch)|||
-||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||||||
+||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||[Drag and Drop](https://github.com/haskell-miso/miso-drag-n-drop)||||
