@@ -1,7 +1,9 @@
 ## 👋 Welcome to the Haskell [miso](https://github.com/dmjio/miso) organization.
 
+We're solving frontend for [Haskell](https://haskell.org).
+
 The goal of this organization is to provide a first-class frontend experience (equivalent to [React](https://react.dev) / [React Native](https://reactnative.dev/) 
-) for the Haskell ecosystem. We do this by combining a "simple Haskell" philosophy with industry standard techniques such as Virtual DOM, Web Components, Custom Renderers, etc. We use third-party integrations, like [LynxJS](https://github.com/haskell-miso/miso-lynx), to target `iOS` and `Android` devices. We support the [latest web standards](https://webassembly.org/) like [Web Assembly](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html). For backend scaling we will support [Supabase](https://supabase.com).
+) for the Haskell ecosystem. We do this by combining a "simple Haskell" philosophy with industry standard techniques such as virtual DOM, Components, custom Renderers, etc. We use third-party integrations, like [LynxJS](https://github.com/haskell-miso/miso-lynx), to target `iOS` and `Android` devices. We support the [latest web standards](https://webassembly.org/) like [Web Assembly](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html). For backend scaling we will support [Supabase](https://supabase.com).
 
 ## 🍜 `miso`
 
