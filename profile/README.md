@@ -36,6 +36,6 @@ The goal of this organization is to provide a first-class frontend experience (e
 |[Coverage](https://coverage.haskell-miso.org)|[Mario](https://github.com/haskell-miso/miso-mario)||[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||Supabase|
 ||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||
 ||[Card Game](https://github.com/smelc/miso-darkcraw)|||[Fetch](https://github.com/haskell-miso/miso-fetch)|||
-||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||Drag n' Drop||||
+||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||Drag and Drop||||
 |||||Clipboard||
 |||||Geolocation||
