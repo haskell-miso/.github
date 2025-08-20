@@ -37,5 +37,5 @@ The goal of this organization is to provide a first-class frontend experience (e
 ||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||
 ||[Card Game](https://github.com/smelc/miso-darkcraw)|||[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||Drag n' Drop||||
-|||||WebRTC||
+|||||Clipboard||
 |||||Geolocation||
