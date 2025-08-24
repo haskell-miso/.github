@@ -4,7 +4,10 @@
 > We're solving frontend and native mobile for [Haskell](https://haskell.org).
 
 The goal of this organization is to provide a first-class frontend experience (equivalent to [React](https://react.dev) / [React Native](https://reactnative.dev/) 
-) for the Haskell ecosystem. We do this by combining a "simple Haskell" philosophy with industry standard techniques such as Virtual DOM, Web Components, Custom Renderers and browser API integration. We use native libraries like [LynxJS](https://github.com/haskell-miso/miso-lynx) to target `iOS` and `Android` devices. We support the [latest web standards](https://webassembly.org/) like [Web Assembly](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html). For backend scaling and third-party integration we will support [Supabase](https://supabase.com). For styles we support [Tailwind CSS](https://tailwindcss.com/), [ShadCN](https://ui.shadcn.com/) via [Basecoat UI](https://basecoatui.com/) and customization via [TweakCN](https://tweakcn.com/).
+) for the Haskell ecosystem. We do this by combining a "simple Haskell" philosophy with industry standard techniques such as Virtual DOM, Web Components, Custom Renderers and browser API integration. We use native libraries like [LynxJS](https://github.com/haskell-miso/miso-lynx) to target `iOS` and `Android` devices. We support the [latest web standards](https://webassembly.org/) like [Web Assembly](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html). 
+
+> [!Note] 
+> For backend scaling and third-party integration we will support [Supabase](https://supabase.com). For styles we support [Tailwind CSS](https://tailwindcss.com/), [ShadCN](https://ui.shadcn.com/) via [Basecoat UI](https://basecoatui.com/) and customization via [TweakCN](https://tweakcn.com/).
 
 ## 🍜 `miso`
 
