@@ -13,7 +13,7 @@ The goal 🏆 of this organization is to provide a first-class frontend experien
 
 -  [miso](https://github.com/dmjio/miso)
 
-## 🌐 Website 
+## 🌎 Website 
 
 - [haskell-miso.org](https://haskell-miso.org)
 
