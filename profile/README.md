@@ -39,7 +39,7 @@
 |[Awesome miso](https://github.com/haskell-miso/awesome-miso)|[Flappy Bird](https://github.com/haskell-miso/miso-plane)|[servant-miso-router](https://github.com/haskell-miso/servant-miso-router)|[PubSub](https://github.com/haskell-miso/miso-pubsub)|[WebSocket](https://github.com/haskell-miso/miso-websocket)|||Google Maps|
 |[Coverage](https://coverage.haskell-miso.org)|[Mario](https://github.com/haskell-miso/miso-mario)|servant-miso-client|[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)||||
 ||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||
-||[Card Game](https://github.com/smelc/miso-darkcraw)|||[Fetch](https://github.com/haskell-miso/miso-fetch)|||
+||[Card Game](https://github.com/smelc/miso-darkcraw)||[Currency Converter](https://functora.github.io/apps/currency-converter)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|||[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)||||
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|||Clipboard||
-||[Currency Converter](https://functora.github.io/apps/currency-converter)|||Geolocation||
+|||||Geolocation||
