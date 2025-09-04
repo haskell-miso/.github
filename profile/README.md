@@ -42,4 +42,4 @@
 ||[Card Game](https://github.com/smelc/miso-darkcraw)||[Currency Converter](https://functora.github.io/apps/currency-converter)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)||[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)||||
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|||Clipboard||
-|||||Geolocation||
+||[Sokoban](https://juliendehos.github.io/misokoban/)|||Geolocation||
