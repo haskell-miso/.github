@@ -1,7 +1,7 @@
-## 👋 Welcome to the Haskell [miso](https://github.com/dmjio/miso) organization.
+# 👋 Welcome !
 
 > [!IMPORTANT]
-> We're solving frontend and native mobile for [Haskell](https://haskell.org).
+> We're solving frontend and native mobile for [Haskell](https://haskell.org) using the [miso](https://github.com/dmjio/miso) 🍜 web framework.
 
 ## 🏆 Goal
 
