@@ -1,6 +1,6 @@
 ## 👋 Welcome to the Haskell [miso](https://github.com/dmjio/miso) organization.
 
-> [!NOTE]
+> [!IMPORTANT]
 > We're solving frontend and native mobile for [Haskell](https://haskell.org).
 
 🏆 The goal of this organization is to provide a first-class frontend experience (in the spirit of [React](https://react.dev) / [React Native](https://reactnative.dev/) 
