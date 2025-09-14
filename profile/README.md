@@ -43,6 +43,6 @@ The mission of this organization is to provide a first-class frontend experience
 |Blog|[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||XYFlow|
 ||[Card Game](https://github.com/smelc/miso-darkcraw)||[Currency Converter](https://functora.github.io/apps/currency-converter)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)||[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)||||
-||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|||[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
+||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)||[Markdown](https://github.com/juliendehos/misodoc)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
 ||[Sokoban](https://juliendehos.github.io/misokoban/)|||||
 ||[Numeron](https://github.com/kiwamizamurai/miso-numeron)|||||
