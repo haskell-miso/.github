@@ -29,7 +29,7 @@ The mission of this organization is to provide a first-class frontend experience
 
 ## 🍱 Index
 
-| 📚 Learnings | 🎮 Games | ⚙️ Utils | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
+| 📚 Learnings | 🎮 Games | ⚙️ Libraries | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
 | ----------- | ------- | -------- | ------- | ------- | ------ | ------ | ------ |
 | Haskell Miso book| [2048](https://github.com/haskell-miso/miso-2048) |[miso-from-html](https://github.com/haskell-miso/miso-from-html)|[Todo MVC](https://github.com/haskell-miso/miso-todomvc) | [Audio](https://github.com/haskell-miso/miso-audio)|[miso-lynx](https://github.com/haskell-miso/miso-lynx)|[haskell-miso.org](https://github.com/haskell-miso/haskell-miso.org)|[three.js](https://github.com/three-hs/three-miso-example)
 | [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |miso-from-css|[File Reader](https://github.com/haskell-miso/miso-filereader)|[Video](https://github.com/haskell-miso/miso-video)|[miso-lynx Haddocks](https://lynx-haddocks.haskell-miso.org)|[miso-sampler](https://github.com/haskell-miso/miso-sampler)|[AFrame.io](https://github.com/haskell-miso/miso-aframe)
@@ -37,7 +37,7 @@ The mission of this organization is to provide a first-class frontend experience
 |[Haddocks](https://haddocks.haskell-miso.org)|[Snake](https://github.com/haskell-miso/miso-snake)|[servant-miso-html](https://github.com/haskell-miso/servant-miso-html)|[SVG](https://github.com/haskell-miso/miso-svg)|[Canvas 2D](https://github.com/haskell-miso/miso-canvas2d)|[Sphynx](https://github.com/dmjio/sphynx)|miso-startup|[Supabase](https://github.com/haskell-miso/supabase-miso)
 |[Awesome miso](https://github.com/haskell-miso/awesome-miso)|[Flappy Bird](https://github.com/haskell-miso/miso-plane)|[servant-miso-router](https://github.com/haskell-miso/servant-miso-router)|[PubSub](https://github.com/haskell-miso/miso-pubsub)|[WebSocket](https://github.com/haskell-miso/miso-websocket)|||Google Maps|
 |[Coverage](https://coverage.haskell-miso.org)|[Mario](https://github.com/haskell-miso/miso-mario)|[servant-miso-client](https://github.com/haskell-miso/servant-miso-client)|[Counter](https://github.com/haskell-miso/miso-counter)|[MathML](https://github.com/haskell-miso/miso-mathml)|||D3.js|
-|Blog|[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)||[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||XYFlow|
+|Blog|[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|[miso-diagrams](https://github.com/haskell-miso/miso-diagrams)|[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||XYFlow|
 ||[Card Game](https://github.com/smelc/miso-darkcraw)||[Currency Converter](https://functora.github.io/apps/currency-converter)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)||[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)||||
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)||[Markdown](https://github.com/juliendehos/misodoc2)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
