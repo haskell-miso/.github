@@ -16,7 +16,7 @@ The mission of this organization is to provide a first-class frontend experience
 
 - [haskell-miso.org](https://haskell-miso.org)
 
-## ⚡ Quick start
+## 🥢 Quick start
 
 -  [miso-sampler](https://github.com/dmjio/miso-sampler)
 
@@ -27,7 +27,7 @@ The mission of this organization is to provide a first-class frontend experience
 - [Slack](https://haskell-miso.slack.com/join/shared_invite_confirmed/zt-37vusrcdw-HH6~hY0DGT7MLCjNWZvLDQ#/email-invite/credentials)
 - [IRC](https://www.irccloud.com/invite?channel=%23haskell-miso&hostname=irc.libera.chat&port=6697&ssl=1)
 
-## 📑 Index
+## 🍱 Index
 
 | 📚 Learnings | 🎮 Games | ⚙️ Utils | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
 | ----------- | ------- | -------- | ------- | ------- | ------ | ------ | ------ |
