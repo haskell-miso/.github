@@ -20,7 +20,7 @@ The mission of this organization is to provide a first-class frontend experience
 
 -  [miso-sampler](https://github.com/dmjio/miso-sampler)
 
-## 🫶 Community 
+## :octocat: Community 
 
 - [Matrix](https://matrix.to/#/#haskell-miso:matrix.org) 
 - [Discord](https://discord.gg/QVDtfYNSxq)
