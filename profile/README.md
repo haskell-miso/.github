@@ -5,7 +5,7 @@
 
 ## 🏆 Goal
 
-The Haskell `miso` organization aims to provide a first-class frontend experience (in the spirit of [React](https://react.dev) / [React Native](https://reactnative.dev/) 
+The [Haskell](https://haskell.org) `miso` organization aims to provide a first-class frontend experience (in the spirit of [React](https://react.dev) / [React Native](https://reactnative.dev/) 
 ) for the [Haskell](https://haskell.org) ecosystem. We do this by combining a "simple Haskell" philosophy with industry standard techniques such as [Virtual DOM](https://en.wikipedia.org/wiki/Virtual_DOM), web components, custom renderers and extensive browser API integration. We use native libraries like [LynxJS](https://github.com/haskell-miso/miso-lynx) to target [iOS](https://www.apple.com/ios), [Android](https://www.android.com/) and [HarmonyOS](https://device.harmonyos.com/en/) devices. We support the [latest web standards](https://webassembly.org/) like [Web Assembly](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html) via the [Haskell WASM project](https://github.com/haskell-wasm).
 
 ## 🍜 `miso`
