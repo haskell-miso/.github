@@ -27,9 +27,14 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 - [Slack](https://haskell-miso.slack.com/join/shared_invite_confirmed/zt-37vusrcdw-HH6~hY0DGT7MLCjNWZvLDQ#/email-invite/credentials)
 - [IRC](https://www.irccloud.com/invite?channel=%23haskell-miso&hostname=irc.libera.chat&port=6697&ssl=1)
 
+## ⚙️ Compilers
+  - [Web Assembly](https://github.com/haskell-wasm)
+  - [GHCJS](https://github.com/ghcjs)
+  - [GHC](https://www.haskell.org/ghc/)
+
 ## 🍱 Index
 
-| 📚 Learnings | 🎮 Games | ⚙️ Libraries | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
+| 📚 Learnings | 🎮 Games | 📦 Libraries | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
 | ----------- | ------- | -------- | ------- | ------- | ------ | ------ | ------ |
 | Haskell Miso book| [2048](https://github.com/haskell-miso/miso-2048) |[miso-from-html](https://github.com/haskell-miso/miso-from-html)|[Todo MVC](https://github.com/haskell-miso/miso-todomvc) | [Audio](https://github.com/haskell-miso/miso-audio)|[miso-lynx](https://github.com/haskell-miso/miso-lynx)|[haskell-miso.org](https://github.com/haskell-miso/haskell-miso.org)|[three.js](https://github.com/three-hs/three-miso-example)
 | [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |[miso-diagrams](https://github.com/haskell-miso/miso-diagrams)|[File Reader](https://github.com/haskell-miso/miso-filereader)|[Video](https://github.com/haskell-miso/miso-video)|[miso-lynx Haddocks](https://lynx-haddocks.haskell-miso.org)|[miso-sampler](https://github.com/haskell-miso/miso-sampler)|[AFrame.io](https://github.com/haskell-miso/miso-aframe)
