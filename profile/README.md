@@ -29,6 +29,10 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 - [Slack](https://haskell-miso.slack.com/join/shared_invite_confirmed/zt-37vusrcdw-HH6~hY0DGT7MLCjNWZvLDQ#/email-invite/credentials)
 - [IRC](https://www.irccloud.com/invite?channel=%23haskell-miso&hostname=irc.libera.chat&port=6697&ssl=1)
 
+## `miso` 🍜 swatch
+
+- ![#4faf89](https://placehold.co/25x25/4faf89/4faf89.png) ![#c5f015](https://placehold.co/25x25/c5f015/c5f015.png) ![#1589F0](https://placehold.co/25x25/1589F0/1589F0.png)
+
 ## ⚙️ Compilers
   - [Web Assembly](https://github.com/haskell-wasm)
   - [GHCJS](https://github.com/ghcjs)
