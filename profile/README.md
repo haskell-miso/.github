@@ -48,5 +48,5 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 ||[Card Game](https://github.com/smelc/miso-darkcraw)||[Currency Converter](https://functora.github.io/apps/currency-converter)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)||[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)||||
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)||[Markdown](https://github.com/juliendehos/misodoc2)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
-||[Sokoban](https://juliendehos.github.io/misokoban/)|||||
+||[Sokoban](https://juliendehos.github.io/misokoban/)||[hledger-web](https://github.com/fiatjaf/hledger-web)|||
 ||[Numeron](https://github.com/kiwamizamurai/miso-numeron)|||||
