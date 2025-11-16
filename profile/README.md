@@ -34,7 +34,7 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 
 ## 🍱 Index
 
-| 📚 Learnings | 🎮 Games | ⚙️ Utils | 📦 Libs | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Full Stack | ⚡ Integrations |
+| 📚 Learn | 🎮 Games | ⚙️ Utils | 📦 Libs | 💫 Apps | 🔌 APIs | 📱 Native | 🍔 Stack | ⚡ 3rd |
 | ----------- | ------- | -------- | ------- | ------- | ------ | ------ | ------ | ------ |
 | Haskell Miso book| [2048](https://github.com/haskell-miso/miso-2048) |[miso-from-html](https://github.com/haskell-miso/miso-from-html)|[miso-diagrams](https://github.com/haskell-miso/miso-diagrams)|[Todo MVC](https://github.com/haskell-miso/miso-todomvc) | [Audio](https://github.com/haskell-miso/miso-audio)|[miso-lynx](https://github.com/haskell-miso/miso-lynx)|[haskell-miso.org](https://github.com/haskell-miso/haskell-miso.org)|[three.js](https://github.com/three-hs/three-miso-example)
 | [README.md](https://github.com/dmjio/miso/blob/master/README.md) | [Space Invaders](https://github.com/haskell-miso/miso-invaders) |[jsaddle-run](https://github.com/haskell-miso/jsaddle-run)|[servant-miso-html](https://github.com/haskell-miso/servant-miso-html)|[File Reader](https://github.com/haskell-miso/miso-filereader)|[Video](https://github.com/haskell-miso/miso-video)|[miso-lynx Haddocks](https://lynx-haddocks.haskell-miso.org)|[miso-sampler](https://github.com/haskell-miso/miso-sampler)|[AFrame.io](https://github.com/haskell-miso/miso-aframe)
