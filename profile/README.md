@@ -22,7 +22,7 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 
 ## 💅 Styles
 
--  [miso-ui](https://miso-ui.haskell-miso.org)
+-  [miso-ui](https://miso-ui.haskell-miso.org) / [source](https://github.com/haskell-miso/miso-ui) 
 
 ## :octocat: Community 
 
