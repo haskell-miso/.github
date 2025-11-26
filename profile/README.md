@@ -20,6 +20,10 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 
 -  [miso-sampler](https://github.com/dmjio/miso-sampler)
 
+## 💅 Styles
+
+-  [miso-ui](https://miso-ui.haskell-miso.org)
+
 ## :octocat: Community 
 
 - [Matrix](https://matrix.to/#/#haskell-miso:matrix.org) 
