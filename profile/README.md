@@ -34,7 +34,7 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 ## ⚙️ Compilers
   - [Web Assembly](https://github.com/haskell-wasm)
   - [GHCJS](https://github.com/ghcjs)
-  - [GHC](https://www.haskell.org/ghc/)
+  - [GHC](https://www.github.com/ghc/)
 
 ## 🍱 Index
 
