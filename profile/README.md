@@ -49,6 +49,6 @@ The [Haskell](https://haskell.org) `miso` organization aims to provide a first-c
 |Blog|[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|[servant-miso-client](https://github.com/haskell-miso/servant-miso-client)|[Reactivity](https://github.com/haskell-miso/miso-reactive)|[SSE](https://github.com/haskell-miso/miso-sse)|||[chart.js](https://github.com/haskell-miso/miso-chartjs)|
 ||[Card Game](https://github.com/smelc/miso-darkcraw)|[Markdown](https://github.com/juliendehos/misodoc2)|[Currency Converter](https://functora.github.io/apps/currency-converter)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)||[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)||||
-||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)||[hledger-web](https://github.com/fiatjaf/hledger-web)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
+||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|||[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
 ||[Sokoban](https://juliendehos.github.io/misokoban/)|||[File Reader](https://github.com/haskell-miso/miso-filereader)||
 ||[Numeron](https://github.com/kiwamizamurai/miso-numeron)|||||
