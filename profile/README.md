@@ -26,7 +26,7 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 ## 🧊 3D
 
-- [three.hs](https://github.com/three-hs/three.hs)
+- [three.hs](https://github.com/three-hs)
 
 ## :octocat: Community 
 
