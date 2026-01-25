@@ -23,7 +23,10 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 ```bash
 git clone https://github.com/haskell-miso/miso-sampler
 cd miso-sampler
-nix develop .#wasm --command bash -c 'make && make serve'
+nix develop .#wasm \
+  --experimental-features nix-command \
+  --extra-experimental-features flakes \
+  --command bash -c 'make && make serve'
 ```
 
 ## 💅 Styles
