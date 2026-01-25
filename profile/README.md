@@ -21,11 +21,11 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 -  [miso-sampler](https://github.com/dmjio/miso-sampler)
 
 ```bash
-git clone https://github.com/haskell-miso/miso-sampler
-cd miso-sampler
-nix develop .#wasm --command bash -c 'make && make serve' \
-  --experimental-features nix-command \
-  --extra-experimental-features flakes
+# Install nix (flakes enabled by default)
+curl -fsSL https://install.determinate.systems/nix | sh -s -- install 
+# Clone and build
+git clone https://github.com/haskell-miso/miso-sampler && cd miso-sampler
+nix develop .#wasm --command bash -c 'make && make serve'
 ```
 
 ## 💅 Styles
