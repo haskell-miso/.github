@@ -20,6 +20,12 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 -  [miso-sampler](https://github.com/dmjio/miso-sampler)
 
+```bash
+git clone https://github.com/haskell-miso/miso-sampler
+cd miso-sampler
+nix develop .#wasm --command bash -c 'make && make serve'
+```
+
 ## 💅 Styles
 
 -  [miso-ui](https://ui.haskell-miso.org)
