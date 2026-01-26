@@ -23,7 +23,8 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 ```bash
 # Install nix (flakes enabled by default)
 curl -fsSL https://install.determinate.systems/nix | sh -s -- install 
-# Clone and build
+
+# Clone, build and host
 git clone https://github.com/haskell-miso/miso-sampler && cd miso-sampler
 nix develop .#wasm --command bash -c 'make && make serve'
 ```
