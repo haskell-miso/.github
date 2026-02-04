@@ -33,6 +33,10 @@ nix develop .#wasm --command bash -c 'make && make serve'
 
 -  [miso-ui](https://ui.haskell-miso.org)
 
+## 📦 npm
+
+- [haskell-miso](https://www.npmjs.com/package/haskell-miso)
+
 ## 🧊 3D
 
 - [three.hs](https://github.com/three-hs)
