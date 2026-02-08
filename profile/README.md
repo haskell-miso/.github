@@ -39,7 +39,7 @@ nix develop .#wasm --command bash -c 'make && make serve'
 
 ## 🧊 3D
 
-- [three.hs](https://github.com/three-hs)
+- [three.hs](https://github.com/haskell-miso/three-miso)
 
 ## :octocat: Community 
 
