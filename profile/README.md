@@ -21,8 +21,11 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 -  [miso-sampler](https://github.com/dmjio/miso-sampler)
 
 ```bash
-# Install nix (flakes enabled by default)
-curl -fsSL https://install.determinate.systems/nix | sh -s -- install 
+# Install nix 
+curl -L https://nixos.org/nix/install | sh
+
+# Enable flakes
+echo 'experimental-features = nix-command flakes' >> ~/.config/nix/config.nix
 
 # Clone, build and host
 git clone https://github.com/haskell-miso/miso-sampler && cd miso-sampler
