@@ -12,6 +12,10 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 -  [miso](https://github.com/dmjio/miso)
 
+## 📚 Docs
+
+- [Miso](https://haddocks.haskell-miso.org/miso/Miso.html)
+
 ## 🌎 Website 
 
 - [haskell-miso.org](https://haskell-miso.org)
