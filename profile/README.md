@@ -75,4 +75,4 @@ nix develop .#wasm --command bash -c 'make && make serve'
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|[Markdown](https://github.com/juliendehos/misodoc2)|[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)|||[MathJAX](https://github.com/haskell-miso/miso-mathjax)|
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|[bun-wasm](https://github.com/haskell-miso/bun-wasm)||[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
 ||[Sokoban](https://juliendehos.github.io/misokoban/)|||[File Reader](https://github.com/haskell-miso/miso-filereader)||
-||[Numeron](https://github.com/kiwamizamurai/miso-numeron)|||||
+||[Numeron](https://github.com/kiwamizamurai/miso-numeron)|||[Storage](https://github.com/haskell-miso/miso-storage)||
