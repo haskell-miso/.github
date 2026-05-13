@@ -76,3 +76,4 @@ nix develop .#wasm --command bash -c 'make && make serve'
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|[bun-wasm](https://github.com/haskell-miso/bun-wasm)|[VPN Router](https://github.com/yaitskov/vpn-router)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
 ||[Sokoban](https://juliendehos.github.io/misokoban/)|[miso-tagsoup](https://github.com/haskell-miso/miso-tagsoup)|[NixCon 2026](https://github.com/nixcon/2026.nixcon.org)|[File Reader](https://github.com/haskell-miso/miso-filereader)||
 ||[Numeron](https://github.com/kiwamizamurai/miso-numeron)||[Proof Assisstant](https://github.com/Reijix/finch)|[Storage](https://github.com/haskell-miso/miso-storage)||
+||||[Calculator](https://github.com/haskell-miso/miso-calculator)|||
