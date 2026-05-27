@@ -33,7 +33,7 @@ nix develop .#wasm --command bash -c 'make && make serve'
 
 ## 💅 Styles
 
--  [miso-ui](https://ui.haskell-miso.org)
+-  [miso.ui](https://ui.haskell-miso.org)
 
 ## 📦 npm
 
