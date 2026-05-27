@@ -73,3 +73,4 @@ nix develop .#wasm --command bash -c 'make && make serve'
 ||[Numeron](https://github.com/kiwamizamurai/miso-numeron)||[Proof Assisstant](https://github.com/Reijix/finch)|[Storage](https://github.com/haskell-miso/miso-storage)||
 ||[Asteroid](https://github.com/haskell-miso/miso-asteroid)||[Calculator](https://github.com/haskell-miso/miso-calculator)|||
 ||[Solitaire](https://github.com/haskell-miso/miso-solitaire)||[Props](https://github.com/haskell-miso/miso-props)||
+||[Chess](https://github.com/haskell-miso/miso-chess)||||
