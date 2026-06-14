@@ -7,6 +7,10 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 -  [miso](https://github.com/dmjio/miso)
 
+## 🎮 Try it !
+
+-  [Try miso](https://try.haskell-miso.org)
+
 ## 📚 Docs
 
 - [Miso](https://haddocks.haskell-miso.org/miso/Miso.html)
