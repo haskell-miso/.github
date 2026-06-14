@@ -13,7 +13,7 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 ## 📚 Docs
 
-- [Miso](https://haddocks.haskell-miso.org/miso/Miso.html)
+- [Docs](https://haddocks.haskell-miso.org/miso/Miso.html)
 
 ## 🌎 Website 
 
@@ -21,7 +21,7 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 ## 🥢 Quick start
 
--  [miso-sampler](https://github.com/dmjio/miso-sampler)
+-  [sampler](https://github.com/dmjio/miso-sampler)
 
 ```bash
 # Install nix 
