@@ -7,7 +7,7 @@ The [Haskell](https://haskell.org) `miso` organization provides a first-class fr
 
 -  [miso](https://github.com/dmjio/miso)
 
-## 🥡 Try it out
+## 🥡 Try it
 
 -  [Try miso](https://try.haskell-miso.org)
 
