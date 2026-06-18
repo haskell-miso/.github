@@ -74,8 +74,8 @@ nix develop .#wasm --command bash -c 'make && make serve'
 ||[Tic-Tac-Toe](https://github.com/haskell-miso/tic-tac-miso)|[Markdown](https://github.com/juliendehos/misodoc2)|[File Upload](https://github.com/haskell-miso/miso-fileupload)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)|||[MathJAX](https://github.com/haskell-miso/miso-mathjax)|
 ||[Multiplayer Maze](https://github.com/juliendehos/miso-maze-iso)|[bun-wasm](https://github.com/haskell-miso/bun-wasm)|[VPN Router](https://github.com/yaitskov/vpn-router)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||
 ||[Sokoban](https://juliendehos.github.io/misokoban/)|[miso-tagsoup](https://github.com/haskell-miso/miso-tagsoup)|[NixCon 2026](https://github.com/nixcon/2026.nixcon.org)|[File Reader](https://github.com/haskell-miso/miso-filereader)||
-||[Numeron](https://github.com/kiwamizamurai/miso-numeron)||[Proof Assisstant](https://github.com/Reijix/finch)|[Storage](https://github.com/haskell-miso/miso-storage)||
-||[Asteroid](https://github.com/haskell-miso/miso-asteroid)||||
+||[Numeron](https://github.com/kiwamizamurai/miso-numeron)||[Finch](https://github.com/Reijix/finch)|[Storage](https://github.com/haskell-miso/miso-storage)||
+||[Asteroid](https://github.com/haskell-miso/miso-asteroid)||[Rzk](https://github.com/rzk-lang/rzk-game)||
 ||[Solitaire](https://github.com/haskell-miso/miso-solitaire)||||
 ||[Chess](https://github.com/haskell-miso/miso-chess)||||
 ||[Blockout](https://github.com/jhrcek/miso-blockout)||||
