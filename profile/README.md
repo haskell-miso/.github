@@ -51,8 +51,6 @@ nix develop .#wasm --command bash -c 'make && make serve'
 
 - [Matrix](https://matrix.to/#/#haskell-miso:matrix.org) 
 - [Discord](https://discord.gg/QVDtfYNSxq)
-- [Slack](https://haskell-miso.slack.com/join/shared_invite_confirmed/zt-37vusrcdw-HH6~hY0DGT7MLCjNWZvLDQ#/email-invite/credentials)
-- [IRC](https://www.irccloud.com/invite?channel=%23haskell-miso&hostname=irc.libera.chat&port=6697&ssl=1)
 
 ## ⚙️ Compilers
   - [Web Assembly](https://github.com/haskell-wasm)
