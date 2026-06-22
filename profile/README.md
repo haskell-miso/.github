@@ -52,6 +52,10 @@ nix develop .#wasm --command bash -c 'make && make serve'
 - [Matrix](https://matrix.to/#/#haskell-miso:matrix.org) 
 - [Discord](https://discord.gg/QVDtfYNSxq)
 
+## `miso` 🍜 swatch
+
+- ![#4faf89](https://placehold.co/25x25/4faf89/4faf89.png) ![#c5f015](https://placehold.co/25x25/c5f015/c5f015.png) ![#1589F0](https://placehold.co/25x25/1589F0/1589F0.png)
+
 ## ⚙️ Compilers
   - [Web Assembly](https://github.com/haskell-wasm)
   - [GHCJS](https://github.com/ghcjs)
