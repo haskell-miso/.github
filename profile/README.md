@@ -5,7 +5,8 @@ The `miso` organization provides a first-class frontend experience (in the spiri
 
 ## 🍜 `miso`
 
--  [miso](https://github.com/dmjio/miso)
+- [miso](https://github.com/dmjio/miso)
+- [Docs](https://haddocks.haskell-miso.org/miso/Miso.html)
 
 ## 📱 Native
 
@@ -15,10 +16,6 @@ The `miso` organization provides a first-class frontend experience (in the spiri
 ## 🥡 Try it
 
 -  [Try miso](https://try.haskell-miso.org)
-
-## 📚 Docs
-
-- [Docs](https://haddocks.haskell-miso.org/miso/Miso.html)
 
 ## 🌎 Website 
 
