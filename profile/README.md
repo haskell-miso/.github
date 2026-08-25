@@ -10,7 +10,7 @@ The `miso` organization provides a first-class frontend experience (in the spiri
 
 ## 📱 Native
 
--  [Gallery](https://github.com/haskell-miso/miso-lynx-gallery)
+-  [Gallery](https://github.com/haskell-miso/miso-lynx-gallery), [Misogram](https://github.com/haskell-miso/misogram)
 -  [Docs](https://haddocks.haskell-miso.org/miso/Miso-Native.html)
 
 ## 🥡 Try it
