@@ -72,7 +72,7 @@ nix develop .#wasm --command bash -c 'make && make serve'
 ||[Minesweeper](https://github.com/haskell-miso/miso-minesweeper)|[bun-wasm](https://github.com/haskell-miso/bun-wasm)|[VPN Router](https://github.com/yaitskov/vpn-router)|[SSE](https://github.com/haskell-miso/miso-sse)|||[chart.js](https://github.com/haskell-miso/miso-chartjs)|
 ||[Texas Hold Em'](https://github.com/haskell-miso/texasholdem)|[miso-tagsoup](https://github.com/haskell-miso/miso-tagsoup)|[Finch](https://github.com/Reijix/finch)|[Fetch](https://github.com/haskell-miso/miso-fetch)|||[MathJAX](https://github.com/haskell-miso/miso-mathjax)|
 ||[Mahjong](https://github.com/haskell-miso/mahjong)||[Rzk](https://github.com/rzk-lang/rzk-game)|[Drag and Drop](https://github.com/haskell-miso/miso-drag-and-drop)|||[XYFlow](https://github.com/haskell-miso/miso-flow)|
-||[Numeron](https://github.com/kiwamizamurai/miso-numeron)||[Taflhouse](https://github.com/taflhouse/game)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)||||
+||[Numeron](https://github.com/kiwamizamurai/miso-numeron)||[Taflhouse](https://github.com/taflhouse/game)|[Geolocation](https://github.com/haskell-miso/miso-geolocation)|||[Cesium](https://github.com/haskell-miso/cesium-hs)|
 ||[Solitaire](https://github.com/haskell-miso/miso-solitaire)||[Context](https://github.com/haskell-miso/context)|[File Reader](https://github.com/haskell-miso/miso-filereader)||||
 ||[Chess](https://github.com/haskell-miso/miso-chess)|||[Storage](https://github.com/haskell-miso/miso-storage)||||
 ||[Blockout](https://github.com/jhrcek/miso-blockout)|||[CookieStore](https://github.com/haskell-miso/cookies)||||
