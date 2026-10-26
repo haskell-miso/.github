@@ -55,6 +55,7 @@ nix develop .#wasm --command bash -c 'make && make serve'
 - [Discord](https://discord.gg/QVDtfYNSxq)
 
 ## ⚙️ Compilers
+  - [MicroHs](https://github.com/augustss/MicroHs)
   - [Web Assembly](https://github.com/haskell-wasm)
   - [GHCJS](https://github.com/ghcjs)
   - [GHC](https://www.github.com/ghc/)
