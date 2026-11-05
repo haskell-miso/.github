@@ -23,7 +23,13 @@ The `miso` organization provides a first-class frontend experience (in the spiri
 
 ## 🥢 Quick start
 
--  [sampler](https://github.com/dmjio/miso-sampler)
+MicroHs
+
+```bash
+curl -fSsl https://haskell-miso.org/download | sh
+```
+
+GHC
 
 ```bash
 # Install nix 
