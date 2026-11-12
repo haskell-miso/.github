@@ -43,13 +43,9 @@ git clone https://github.com/haskell-miso/miso-sampler && cd miso-sampler
 nix develop .#wasm --command bash -c 'make && make serve'
 ```
 
-## 💅 Styles
+## 🔋 CLI
 
--  [miso.ui](https://ui.haskell-miso.org)
-
-## 📦 npm
-
-- [haskell-miso](https://www.npmjs.com/package/haskell-miso)
+-  [miso](https://gihtub.com/haskell-miso/cli)
 
 ## 🧊 3D
 
